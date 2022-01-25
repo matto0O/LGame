@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LGame</string>
+    <string name="not_button">This is not a button!</string>
+    <string name="no_more_4">Cannot select more than 4 tiles</string>
+    <string name="no_more_2">Cannot select more than 2 tiles</string>
+    <string name="not_the_shape">Invalid move (not in the L shape)</string>
+    <string name="tiles_not_changed">Invalid move (haven\'t changed the tiles)</string>
+    <string name="move_neutral">Move a neutral tile</string>
+    <string name="move_shape">Move your L shape</string>
+    <string name="other_turn">It\'s opponent\'s turn</string>
+    <string name="select_neutral">Select a neutral tile you want to move</string>
+    <string name="select_dst_neutral">Select a new neutral tile position</string>
+    <string name="select_whole_neutral">Select a neutral tile and its new position</string>
+    <string name="restart_vote">Voting to restart</string>
+    <string name="lost">You lost</string>
+    <string name="won">You won</string>
+</resources>
